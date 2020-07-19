@@ -4,7 +4,7 @@ import com.java.oop.teben.generics.MyArray;
 import com.java.oop.teben.generics.MyList;
 
 public class Executor {
-    public void execute() {
+    public void executeApplication() {
         MyList<Integer> intList = new MyList<>();
         intList.add(-3);
         intList.add(4);
